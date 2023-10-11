@@ -1,6 +1,6 @@
-# User Management CRUD Frontend
+# Notes Management CRUD Frontend
 
-This is the frontend part of the User Management CRUD application, built using React.js. The frontend provides a user-friendly interface to interact with the backend API for creating, reading, updating, and deleting user records.
+This is the frontend part of the Notes Management CRUD application, built using React.js. The frontend provides a user-friendly interface to interact with the backend API for creating, reading, updating, and deleting note records.
 
 ## Technologies Used
 
@@ -19,7 +19,7 @@ Before running the frontend, ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/agify/agify-frontend.git
+   git clone https://github.com/aliyevroyal/notes-react-app
    ```
 
 2. Navigate to the frontend directory.
@@ -42,7 +42,7 @@ The frontend will be available at `http://localhost:3000`.
 
 1. Access the frontend application in your web browser at `http://localhost:3000`.
 
-2. Use the application to create, read, update, and delete user records.
+2. Use the application to create, read, update, and delete notes records.
 
 ## Contributing
 
